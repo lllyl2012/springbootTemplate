@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="springbootTemplate"
+  id="myeclipse.1520051249670"
+  context-root="/mySecurity"
+  j2ee-spec="1.7"
+  archive="springbootTemplate.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
