@@ -16,6 +16,9 @@ public class Demo {
 	@Column(name="name")
 	private String name;
 	
+	public Demo() {
+		super();
+	}
 	public Demo(String name) {
 		super();
 		this.name = name;

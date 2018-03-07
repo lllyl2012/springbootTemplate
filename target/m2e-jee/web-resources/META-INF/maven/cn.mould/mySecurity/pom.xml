@@ -43,6 +43,7 @@
 			<optional>true</optional>
 			<scope>true</scope>
 		</dependency>
+		<!-- mysql数据库 -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
